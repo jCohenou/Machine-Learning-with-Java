@@ -33,7 +33,7 @@ Accuracy of PART: 78.31%
 Accuracy of DecisionTable: 81.93%
 ---------------------------------
 Accuracy of DecisionStump: 81.93%
-# ---------------------------------
+ ---------------------------------
 # Correctly Classified Instances          68               81.9277 %
 # Incorrectly Classified Instances        15               18.0723 %
 # Kappa statistic                          0     
@@ -42,7 +42,7 @@ Accuracy of DecisionStump: 81.93%
 # Relative absolute error                 98.2441 %
 # Root relative squared error             99.9852 %
 # Total Number of Instances               83  
-# ---------------------------------
+ ---------------------------------
 #For the confusion matrixhe row indicates the true class, the column indicates the classifier output.
 #That is in our case 15 false negatives that were incorrectly marked as false with 68 true negatives correcty classified
 
