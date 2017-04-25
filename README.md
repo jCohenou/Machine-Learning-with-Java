@@ -43,8 +43,9 @@ Accuracy of DecisionStump: 81.93%
 # Root relative squared error             99.9852 %
 # Total Number of Instances               83  
  ---------------------------------
-#For the confusion matrixhe row indicates the true class, the column indicates the classifier output.
-#That is in our case 15 false negatives that were incorrectly marked as false with 68 true negatives correcty classified
+For the confusion matrixhe row indicates the true class, the column indicates the classifier output.
+
+That is in our case 15 false negatives that were incorrectly marked as false with 68 true negatives correcty classified
 
 # === Confusion Matrix ===
 
