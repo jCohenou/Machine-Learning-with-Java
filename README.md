@@ -24,7 +24,7 @@ The weather.txt file consist of weather data from april 2015-2017 which was take
 I will not dive into any of the code but give a brief explaination of the output
 This is the results of classifying for a windy day
 
-#First 4 are accuracy of 4 different models
+First 4 are accuracy of 4 different models
 
 Accuracy of J48: 81.93%                                             
 ---------------------------------
