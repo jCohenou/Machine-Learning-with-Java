@@ -12,16 +12,16 @@ for weka gui use not inside ides where .txt work fine
 This text file includes the @relation, @attributes, and @data fields.
 
 @relation is used somewhat like a title
-@attributes list all the features anly with the types of the features
+@attributes list all the features along with the types of the features
 @data is the raw input of these features
 
-Since I gave a simplfied explaination of this here is a link with more details http://www.cs.waikato.ac.nz/ml/weka/arff.html
+Since I gave a simplified explanation of this here is a link with more details http://www.cs.waikato.ac.nz/ml/weka/arff.html
 
-The weather.txt file consist of weather data from april 2015-2017 which was take from https://www.wunderground.com/history/airport/KFAY/2015/4/21/MonthlyCalendar.html?req_city=Fayetteville&req_state=NC&req_statename=&reqdb.zip=28306&reqdb.magic=15&reqdb.wmo=99999&MR=1
+The weather.txt file consist of weather data from April 2015-2017 which was take from https://www.wunderground.com/history/airport/KFAY/2015/4/21/MonthlyCalendar.html?req_city=Fayetteville&req_state=NC&req_statename=&reqdb.zip=28306&reqdb.magic=15&reqdb.wmo=99999&MR=1
 
 # MachineLearningProject.java
 
-I will not dive into any of the code but give a brief explaination of the output
+I will not dive into any of the code but give a brief explanation of the output
 This is the results of classifying for a windy day
 
 First 4 are accuracy of 4 different models
@@ -43,9 +43,9 @@ Accuracy of DecisionStump: 81.93%
 # Root relative squared error             99.9852 %
 # Total Number of Instances               83  
  ---------------------------------
-For the confusion matrixhe row indicates the true class, the column indicates the classifier output.
+For the confusion matrix, the row indicates the true class, the column indicates the classifier output.
 
-That is in our case 15 false negatives that were incorrectly marked as false with 68 true negatives correcty classified
+That is in our case 15 false negatives that were incorrectly marked as false with 68 true negatives correctly classified
 
 # === Confusion Matrix ===
 
